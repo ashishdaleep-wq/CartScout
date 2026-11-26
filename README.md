@@ -4,7 +4,7 @@
 
 CartScout is a Streamlit shopping app with a built-in AI assistant. Browse a catalog of 100 products, filter by category, price and rating, read automatically summarized pros & cons for each product, manage a cart, and ask the chatbot for product info or shopping advice.
 
-Built as a college capstone project by a team of four. Project lead: [Ashish](https://github.com/ashishdaleep-wq).
+Project lead: [Ashish](https://github.com/ashishdaleep-wq).
 
 ## Features
 
